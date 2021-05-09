@@ -18,7 +18,6 @@ Take payments in your gravity forms using the Borgun Gateway.
 1. Upload the gravityformsborgun folder to the /wp-content/plugins/ directory
 2. Activate the Gravity Forms Borgun Add-On plugin through the 'Plugins' menu in WordPress
 3. Navigate to Forms -> Settings in the menu and save the credentials.
-4. http://screencast-o-matic.com/watch/cFeQrQDbOy
 
 == Frequently Asked Questions ==
 
